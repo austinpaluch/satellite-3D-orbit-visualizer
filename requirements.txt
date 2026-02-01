@@ -1,0 +1,6 @@
+skyfield
+plotly
+requests
+numpy
+kaleido
+ffmpeg
